@@ -1,0 +1,5 @@
+ID, Name, Type
+0,Test Gather Quest,GATHER
+1,Test Kill Quest,KILLTARGETS
+2,Test Bool Quest,BOOLEAN
+3,Final Test Quest,GATHER

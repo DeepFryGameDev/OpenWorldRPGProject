@@ -1,0 +1,23 @@
+ID, Name, Type, Slot
+0,Test Chest,ARMOR,CHEST
+1,Super Test Chest,ARMOR,CHEST
+2,Test Helmet,ARMOR,HEAD
+3,Super Test Helmet,ARMOR,HEAD
+4,Test Gloves,ARMOR,HANDS
+5,Super Test Gloves,ARMOR,HANDS
+6,Test Boots,ARMOR,FEET
+7,Super Test Boots,ARMOR,FEET
+8,Test Necklace,ARMOR,NECK
+9,Super Test Pendant,ARMOR,NECK
+10,Test Shield,WEAPON,LEFTARM
+11,Super Test Shield,WEAPON,LEFTARM
+12,Test Sword,WEAPON,RIGHTARM
+13,Super Test Sword,WEAPON,RIGHTARM
+14,Test Relic,WEAPON,RELIC
+15,Super Test Relic,WEAPON,RELIC
+16,Test Bracers,ARMOR,WRIST
+17,Super Test Bracers,ARMOR,WRIST
+18,Test Ring,ARMOR,RING
+19,Super Test Ring,ARMOR,RING
+20,Test Spaulders,ARMOR,SHOULDERS
+21,Super Test Spaulders,ARMOR,SHOULDERS
